@@ -56,7 +56,7 @@ public class Person {
     }
     // gets a random trick type
     public static String randTypeOfTrick()
-    {
+    { // e
         String[] trickType = {"putting toilet paper on the house", "putting all the packages on the porch the wrong side up", "mowing the lawn without any particular order and messing up all the lines", "unraking the leaves", "relocating a birds nest to directly outside the bedroom window", "setting up Christmas decorations too early", "taking in the trash"};
         return trickType[(int)(Math.random() * trickType.length)];
     }

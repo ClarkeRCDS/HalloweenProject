@@ -2,7 +2,7 @@ public class House {
     //decoration status of the house
     private final boolean isDecorated;
     //type of candy being given
-    private final String typeOfCandy;
+    private final String typeOfCandy; // e
     //address of the house
     private final String address;
     //how much candy they give out per trick or treater
